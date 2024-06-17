@@ -1,0 +1,9 @@
+Gansman   135
+Describe which problem-solving techniques you have used (10 pts)
+Describe the data structure you have used        (10 pts)
+List the major functions that you implemented        (10 pts)
+Complexity of your solution                (5/20 pts)
+       Not sure where you get exponential complexity here.
+       It looks like it is Theta(n^2).
+Testing                         (100 pts)
+
